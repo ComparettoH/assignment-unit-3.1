@@ -38,7 +38,7 @@ console.log('The last favorite food is', favoriteFoods [3]);
 
 // 3.c. (STRETCH) TODO: Log the last animal by using the array length, 
 //      instead of the exact index number of the last item
-
+// *NOT DONE YET NEEDS MORE RESEARCH console.log('The last favorite food is,', favoriteFoods = favoriteFoods.length);
 
 
 // 4. Adding & Removing Array Items
