@@ -31,10 +31,10 @@ console.log('--- 3. Accessing items in an array ---');
 console.log('First animal is', animalArray[0]);
 
 // 3.a. TODO: Log the second animal in the array 
-console.log('First favorite food is', favoriteFoods[0]);
+console.log('The first favorite food is', favoriteFoods[0]);
 
 // 3.b. TODO: Log the last animal in the array using it's array index 
-
+console.log('The last favorite food is', favoriteFoods [3]);
 
 // 3.c. (STRETCH) TODO: Log the last animal by using the array length, 
 //      instead of the exact index number of the last item
